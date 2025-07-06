@@ -2,7 +2,7 @@
 
 <b> Arquivos do MVP: </b>
 
-<b> Relatório: </b> MVP - Pesquisa com usuários - Gustavo Araujo dos Santos.pdf
+<b> Relatório: </b> MVP - Pesquisa com usuários - Gustavo Araujo dos Santos.pdf (Transcrições das entrevistas no apêndice)
 
 <b> TCLE da Entrevista-piloto: </b> TCLE - E0.pdf
 
